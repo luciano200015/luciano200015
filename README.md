@@ -4,20 +4,15 @@ Soy un desarollador apasionado con experiencia en una amplia variedad de tecnolo
 Estoy ansioso por colaborar en proyectos innovadores y contribuir al éxito de equipos de desarrollo. Siempre estoy abierto a nuevas conexiones y oportunidades.
 
 ## Tecnologías:
-
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://reactnative.dev/)
-
 </br>
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 </br>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](https://firebase.google.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
