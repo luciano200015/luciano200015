@@ -4,7 +4,7 @@ Soy un desarollador apasionado con experiencia en una amplia variedad de tecnolo
 Estoy ansioso por colaborar en proyectos innovadores y contribuir al éxito de equipos de desarrollo. Siempre estoy abierto a nuevas conexiones y oportunidades.
 
 ## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![React.js](https://img.shields.io/badge/iOS-999999?style=logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
