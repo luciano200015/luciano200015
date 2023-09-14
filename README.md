@@ -23,11 +23,13 @@ Estoy ansioso por colaborar en proyectos innovadores y contribuir al éxito de e
 Y alguna más...
 
 ## Contactame:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
-[Envíame un correo](mailto:tu-lucianosorucoaltamirano03@gmail.com)
-</br>
+
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCzjzlC_AdT_m1EArvxXjfww)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciano-soruco-altamirano-312174268/)
+</br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+[Envíame un correo aqui](mailto:tu-lucianosorucoaltamirano03@gmail.com)
 
 
 
