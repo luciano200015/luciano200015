@@ -1,6 +1,6 @@
 # Hola Mi Nombre es Luciano Soruco Altamirano 👋
 ## Desarollador full stack
-![Texto alternativo](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1133705410.jpg)
+
 Soy un desarollador apasionado con experiencia en una amplia variedad de tecnologías y lenguajes. Mi objetivo es crear soluciones innovadoras y eficientes para problemas. Soy un estudiante universitario de ing. de sistemas altamente autodidacta y siempre estoy buscando oportunidades para aprender y crecer. Mi pasión por la programación y el desarrollo tecnológico me impulsa a buscar oportunidades desafiantes y emocionantes.
 Estoy ansioso por colaborar en proyectos innovadores y contribuir al éxito de equipos de desarrollo. Siempre estoy abierto a nuevas conexiones y oportunidades.
 
@@ -21,6 +21,14 @@ Estoy ansioso por colaborar en proyectos innovadores y contribuir al éxito de e
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)](https://www.microsoft.com/en-us/sql-server)
 
 Y alguna más...
+
+## Contactame:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://www.youtube.com/](https://www.youtube.com/channel/UCzjzlC_AdT_m1EArvxXjfww))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/](https://www.linkedin.com/in/luciano-soruco-altamirano-312174268/))
+
+
+
 <!--
 **luciano200015/luciano200015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
