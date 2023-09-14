@@ -28,7 +28,7 @@ Y alguna más...
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCzjzlC_AdT_m1EArvxXjfww)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciano-soruco-altamirano-312174268/)
 </br>
-[Visita mi web](https://tudirecciondeportafolio.com](https://lucianosoruco-2c2bc.web.app/)
+[Visita mi sitio web aqui](https://lucianosoruco-2c2bc.web.app/)
 
 </br>
 
